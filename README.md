@@ -82,7 +82,3 @@ Implemented and compared several ML algorithms including:
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
